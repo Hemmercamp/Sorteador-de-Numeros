@@ -1,56 +1,64 @@
-# 🏆 Sorteador de Números
+<h1 align="center">🎲 Sorteador de Números</h1>
 
-### 🎯 Descrição
-
-O **Sorteador de Números** é um projeto desenvolvido para praticar **JavaScript, HTML e CSS**, explorando manipulação do DOM, cálculos matemáticos e estilização moderna.  
-A ideia é simples: o usuário define um **número mínimo** e um **número máximo**, e o sistema sorteia um valor aleatório entre eles — exibindo o resultado com estilo e animação!
-
-O layout foi aprimorado com **gradiente de fundo**, **animações suaves** e um **GIF interativo de troféu**, tornando o visual mais dinâmico e envolvente.
-
----
-
-### ⚙️ Tecnologias utilizadas
-
-- 🧱 **HTML5**
-- 🎨 **CSS3 (animações e responsividade)**
-- ⚡ **JavaScript (Math.random e manipulação do DOM)**
+<p align="center">
+  <a href="https://hemmercamp.github.io/Sorteador-de-Numeros/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver%20Projeto%20Online-blue?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-### 💡 Funcionalidades
+## 🧠 Sobre o projeto
 
-- Entrada de valores **mínimo e máximo**  
-- Sorteio instantâneo com **resultado exibido na tela**  
-- Interface totalmente **responsiva**  
-- Efeitos visuais modernos e **animações de vitória**
+O **Sorteador de Números** é uma aplicação simples e divertida desenvolvida com **HTML, CSS e JavaScript**.  
+Ela permite ao usuário definir um intervalo (mínimo e máximo) e gerar **números aleatórios** com apenas um clique.
 
----
-
-### 🖼️ Layout do projeto
-
-![Layout do projeto](./assets/sorteador-preview.png)
+O visual é moderno e responsivo, com **animação de troféu e fundo dinâmico**, tornando a experiência mais interativa.
 
 ---
 
-### 📚 Aprendizados
+## 🚀 Funcionalidades
 
-Durante o desenvolvimento deste projeto, foram praticados e reforçados os seguintes conceitos:
-
-- Uso de **Math.random()** e **Math.floor()** para gerar números aleatórios.  
-- Leitura e manipulação de **valores de input** com JavaScript.  
-- Atualização dinâmica de **elementos HTML via DOM**.  
-- Criação de um **layout moderno e responsivo** com CSS.  
-- Utilização de **animações e GIFs** para deixar o projeto mais interativo e atrativo.  
-- Estruturação semântica do HTML e separação de responsabilidades entre código e estilo.
+✅ Gera números aleatórios dentro do intervalo definido  
+✅ Interface totalmente responsiva  
+✅ Fundo animado e tema tecnológico  
+✅ Animação com troféu e confetes 🎉  
+✅ Código limpo e bem estruturado  
 
 ---
 
-### 👨‍💻 Autor
+## 🌐 Acesse o projeto online
 
-**Emerson Eruédinos da Silva**  
-📧 contatohemersonoficial@gmail.com  
-🔗 [GitHub - Hemmercamp](https://github.com/Hemmercamp)
+<p align="center">
+  <a href="https://hemmercamp.github.io/Sorteador-de-Numeros/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver%20Projeto%20Online-blue?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-> Projeto criado como exercício prático de lógica e front-end — parte do aprendizado no **DevClub** 🚀
+## 🧩 Tecnologias utilizadas
+
+- **HTML5** → estrutura da aplicação  
+- **CSS3** → estilização e responsividade  
+- **JavaScript** → geração aleatória e interatividade  
+
+---
+
+## 🖼️ Layout do projeto
+
+<p align="center">
+  <img src="assets/preview.png" alt="Preview do projeto Sorteador de Números" width="700px">
+</p>
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Emerson Eruédinos da Silva**  
+📧 [contatohemersonoficial@gmail.com](mailto:contatohemersonoficial@gmail.com)  
+💼 [GitHub - Hemmercamp](https://github.com/Hemmercamp)
+
+---
+
+⭐ *“Cada linha de código é um passo em direção a um novo aprendizado.”*  
